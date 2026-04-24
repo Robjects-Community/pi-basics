@@ -1715,3 +1715,58 @@ docs/Rpi_video2.blend
 docs/Rpi_video2.blend1
 docs/untitled.blend
 script_video2.txt
+pi-basics.code-workspace
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/1.Gesture Recognition.pdf
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/2.Color threshold adjustment Color calibration.pdf
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/3.Color recognition.pdf
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/4.Face recognition.pdf
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/5.Model training.pdf
+tutorials/B_smartvision-ml(future)/0-smartvision-basic/6.yolo garbage identification.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/1.PID algorithm basics.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/2.Color block positioning.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/3.Color block tracking.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/4.Face positioning.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/5.Face tracking.pdf
+tutorials/B_smartvision-ml(future)/1-tracking-course/6.Gesture recognition fixed action.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/1.Gesture recognition stack blocks.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/2.Color recognition grab blocks.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/3.Catch game.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/4.Color sorting and stacking.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/5.Garbage sorting.pdf
+tutorials/B_smartvision-ml(future)/2-catch-course/6.Color interaction.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/1.Hand detection.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/2.Attitude detection.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/3.Overall inspection.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/4.Face detection.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/5.Face recognition.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/6.Face effects.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/7.3D object recognition.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/8.Brush.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/9.Finger control.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/10.Gesture recognition.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/11.Mediapipe gesture control action group.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/12.Mediapipe gesture recognition control stack.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/13.Mediapipe palm arm targeting.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/14.Mediapipe arm posture control robotic arm.pdf
+tutorials/B_smartvision-ml(future)/3-mediapipe-course/15.Mediapipe recognition and tracking palm control.pdf
+tutorials/SEVFI-master/README.md
+tutorials/SEVFI-master/requirements.txt
+tutorials/SEVFI-master/test.py
+tutorials/SEVFI-master/Networks/dcn_pack.py
+tutorials/SEVFI-master/Networks/modules.py
+tutorials/SEVFI-master/Networks/SEVFI.py
+tutorials/SEVFI-master/figs/fig1.png
+tutorials/SEVFI-master/figs/quantitative.png
+tutorials/SEVFI-master/script/dataloader.py
+tutorials/SEVFI-master/script/utils.py
+tutorials/B_smartvision-ml(future)/Human Analysis - Gesture Recognition | Baidu AI Open Platform.pdf
+tutorials/B_smartvision-ml(future)/SEVFI-master/README.md
+tutorials/B_smartvision-ml(future)/SEVFI-master/requirements.txt
+tutorials/B_smartvision-ml(future)/SEVFI-master/test.py
+tutorials/B_smartvision-ml(future)/SEVFI-master/Networks/dcn_pack.py
+tutorials/B_smartvision-ml(future)/SEVFI-master/Networks/modules.py
+tutorials/B_smartvision-ml(future)/SEVFI-master/Networks/SEVFI.py
+tutorials/B_smartvision-ml(future)/SEVFI-master/figs/fig1.png
+tutorials/B_smartvision-ml(future)/SEVFI-master/figs/quantitative.png
+tutorials/B_smartvision-ml(future)/SEVFI-master/script/dataloader.py
+tutorials/B_smartvision-ml(future)/SEVFI-master/script/utils.py
