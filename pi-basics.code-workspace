@@ -5,6 +5,9 @@
         }
     ],
     "settings": {
-        "docwriter.style": "NumPy"
+        "docwriter.style": "NumPy",
+        "python.analysis.extraPaths": [
+            "./src"
+        ]
     }
 }
