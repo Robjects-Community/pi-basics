@@ -8,6 +8,13 @@
         "docwriter.style": "NumPy",
         "python.analysis.extraPaths": [
             "./src"
+        ],
+        "python-envs.pythonProjects": [
+            {
+                "path": "tutorials/B_smartvision-ml(future)",
+                "envManager": "ms-python.python:venv",
+                "packageManager": "ms-python.python:pip"
+            }
         ]
     }
 }
