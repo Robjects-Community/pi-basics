@@ -1,1 +1,9 @@
-Anaconda3-2025.12-2-Linux-x86_64.sh
+environmental
+.vscode
+.idea
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
